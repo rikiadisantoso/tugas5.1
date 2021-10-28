@@ -1,0 +1,11 @@
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\DayUserUnitTest.dll
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\DayUserUnitTest.pdb
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\nunit.framework.dll
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\TugasLibrary.dll
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\TugasLibrary.pdb
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\bin\Debug\nunit.framework.xml
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\obj\Debug\DayUserUnitTest.csprojAssemblyReference.cache
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\obj\Debug\DayUserUnitTest.csproj.CoreCompileInputs.cache
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\obj\Debug\DayUserUnitTest.csproj.CopyComplete
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\obj\Debug\DayUserUnitTest.dll
+D:\LEARNING\AMIKOM\Semester 3\PEMROGRAMAN\Module Praktikum 05\02 tugas\DayUserUnitTest\obj\Debug\DayUserUnitTest.pdb
